@@ -183,3 +183,12 @@ a{
        width: 100%;
     }
 }
+
+
+footer.main-footer{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: white;
+    background-color: black;
+}
+
